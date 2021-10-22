@@ -5,8 +5,6 @@ r = TRandom()
 m=10
 s=10
 
-#add some comment for test purpose
-
 print("### Check mean/std-dev estimation of Landau distributed data as function of statistics")
 print("# mpv = ",m)
 print("# sigma = ",s)
